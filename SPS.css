@@ -6,7 +6,7 @@
 
 
 body{
-    background-color: darkolivegreen;
+    background-color: olivegreen;
 }
 
 
@@ -62,7 +62,7 @@ img{
 
 #msg{
     background-color: black;
-    color: aliceblue;
+    color: blue;
     font-size: 2rem;
     display: inline;
     padding: 1rem;
